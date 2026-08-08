@@ -198,11 +198,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4d628ec6e61d4694",
   "lastOpenFiles": [
+    "NightGlow Wiki.md",
     "NightGlow/Core Design.md",
     "NightGlow/Game Design Document.md",
     "Blackboard/To-do/Untitled.md",
